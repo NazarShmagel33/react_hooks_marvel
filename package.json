@@ -1,7 +1,7 @@
 {
   "name": "marvel",
-  "homepage": "https://NazarShmagel33.github.io/marvel_hooks_react",
   "version": "0.1.0",
+  "homepage": "https://NazarShmagel33.github.io/marvel_hooks_react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
